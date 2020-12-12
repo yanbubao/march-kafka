@@ -14,7 +14,7 @@ import java.util.Collections;
 import java.util.Properties;
 
 /**
- * @author v_yanzixuan
+ * @author yanzx
  */
 public class KafkaConsumerAnalysis {
 

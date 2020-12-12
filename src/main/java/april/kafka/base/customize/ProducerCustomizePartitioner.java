@@ -13,7 +13,7 @@ import java.util.Properties;
 /**
  * 自定义分区Producer.
  *
- * @author v_yanzixuan
+ * @author yanzx
  */
 public class ProducerCustomizePartitioner {
 

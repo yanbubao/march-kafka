@@ -10,7 +10,7 @@ import java.util.concurrent.ExecutionException;
 import java.util.concurrent.Future;
 
 /**
- * @author v_yanzixuan
+ * @author yanzx
  */
 public class KafkaProducerAnalysis {
 

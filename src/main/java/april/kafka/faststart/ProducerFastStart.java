@@ -8,7 +8,7 @@ import java.util.Properties;
 /**
  * Kafka FastStart.
  *
- * @author v_yanzixuan
+ * @author yanzx
  */
 public class ProducerFastStart {
 

@@ -13,7 +13,7 @@ import java.util.Properties;
 /**
  * kafka生产端使用自定义序列化器.
  *
- * @author v_yanzixuan
+ * @author yanzx
  */
 public class ProducerCustomizeSerializer {
 

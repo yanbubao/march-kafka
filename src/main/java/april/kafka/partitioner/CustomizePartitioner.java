@@ -15,7 +15,7 @@ import java.util.concurrent.atomic.AtomicInteger;
  * 消息在通过 send() 方法发往 broker 的过程中，有可能需要经过拦截器（Interceptor）、
  * 序列化器（Serializer）和分区器（Partitioner）的一系列作用之后才能被真正地发往 broker。
  *
- * @author v_yanzixuan
+ * @author yanzx
  */
 public class CustomizePartitioner implements Partitioner {
 

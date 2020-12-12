@@ -10,7 +10,7 @@ import java.util.Map;
 /**
  * 针对Company类的自定义序列化器类
  *
- * @author v_yanzixuan
+ * @author yanzx
  */
 public class CompanySerializer implements Serializer<Company> {
 
